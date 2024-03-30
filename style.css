@@ -219,3 +219,7 @@ header{
 .price, regularPrice {
     margin-top: 20px;
 }
+
+.home-text, h3{
+    margin: 20px;
+}
